@@ -18,7 +18,12 @@ func init
 func new
 ```
 
-| Http Triger を選択。
+トリガーの種類：  
+| Http Triger を選択。  
+
+ファンクション名：
+| simple-interest
+
 
 ## 3. index.json の編集
 
